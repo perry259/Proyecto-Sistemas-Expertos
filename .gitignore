@@ -1,0 +1,6 @@
+# archivos de sistema
+.DS_Store
+Thumbs.db
+
+# descomenta si no quieres versionar assets binarios grandes
+# raw/assets/
