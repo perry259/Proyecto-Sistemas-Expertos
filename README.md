@@ -1,6 +1,6 @@
-# Wiki de Investigación (LLM-Wiki)
+# Base de conocimientos
 
-## La idea en 1 minuto
+## Descripcion
 
 En lugar de un RAG clásico (recuperar trozos de documentos en cada pregunta), el LLM
 **construye y mantiene de forma persistente una wiki** de archivos markdown que se
